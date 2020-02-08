@@ -4,7 +4,4 @@ Artwork created by the people during the coronavirus outbreak. Collected from th
 
 **为了这些感受不被忘记，即使“被忘记”。**
 
-## 收录条件
-- 值得被记住
-- 具有代表性
 
