@@ -8,5 +8,7 @@ Artwork created by the people during the coronavirus outbreak. Collected from th
 
 [提醒自己别忘记](https://jhcccc.github.io/wuhan2020-artwork/)
 
+## Contribute 提交图片
+请在issue里附图，或提交 Pull Request 即可。
 
 Sources are intentionally hidden to protect the creators. 除非要求，否则默认不注明来源，以保护内容创作者安全。
