@@ -1,14 +1,9 @@
 # wuhan2020-artwork
+
 Artwork created by the people during the coronavirus outbreak. Collected from the interenet. Archived and displayed here, so that they are remembered.
 自网络收集的，关于新冠肺炎疫情的**非官方**图片、视频、文字等创作进行展示和存档。
 
-**为了这些感受不被忘记，即使“被忘记”。**
-![](https://github.com/jhcccc/wuhan2020-artwork/blob/master/img/preview.jpg?raw=true)
-[View it here](https://jhcccc.github.io/wuhan2020-artwork/)
-
-[提醒自己别忘记](https://jhcccc.github.io/wuhan2020-artwork/)
-
-## Contribute 提交图片
-请在issue里附图，或提交 Pull Request 即可。
+# No Longer Available
+This project was taken down by government request.
 
 Sources are intentionally hidden to protect the creators. 除非要求，否则默认不注明来源，以保护内容创作者安全。
